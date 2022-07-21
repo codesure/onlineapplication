@@ -10,7 +10,7 @@ const Featured = () => {
     ];
   return (
   
-    <div className={styles.container}>Featured
+    <div className={styles.container}>Featured Things
     <div className={styles.arrowContainer} style={{left:0}}>
     <Image src="/img/arrow1.png" alt="" width="50px" height="50px"/>
 
